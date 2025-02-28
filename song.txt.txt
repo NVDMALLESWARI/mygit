@@ -1,4 +1,5 @@
 cheppave chirugali
+<<<<<<< HEAD
 challaga edhagilli
 
 avunu nijam 
@@ -6,3 +7,10 @@ nuvvante naakistam
 ee nimisham 
 gurthinchava aa satyam
 ----------------------------
+=======
+Challagaa Edhagilli
+Ekkade Vasanthaala Keli… 
+Oo Choopave Neetho Theesukelli
+
+Aasha Dheepikalai, Merise Thaarakalu Choose… Keerthikalai Virise Korikalu
+>>>>>>> e6205a0f23544bb55cb605519917ccd6c474acb6
